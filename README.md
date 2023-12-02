@@ -14,7 +14,7 @@ Basic knowledge about how to use jupyter python notebook
 
 #### 1) Basics of Numpy & Intro to OpenCV
 
-[1. Numpy_Basics](1_Prog_Numpy_Basics.ipynb)
+[1. Numpy_Basics](1_Prog_Numpy_Basics.ipynb)</br>
 [2. Introduction to OpenCV](2_Prog_OpenCV_Intro.ipynb)
 
 #### 2) Image read/write

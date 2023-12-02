@@ -14,19 +14,19 @@ Basic knowledge about how to use jupyter python notebook
 
 #### 1) Basics of Numpy & Intro to OpenCV
 
-[1. Numpy_Basics](1_Prog_Numpy_Basics.ipynb)</br>
-[2. Introduction to OpenCV](2_Prog_OpenCV_Intro.ipynb)
+<br>[1. Numpy_Basics](1_Prog_Numpy_Basics.ipynb)</br>
+<br>[2. Introduction to OpenCV](2_Prog_OpenCV_Intro.ipynb)</br>
 
 #### 2) Image read/write
 
-[3. Basics of Image Read/Write](3_Prog_CV_ImageBasics.ipynb)
+<br>[3. Basics of Image Read/Write](3_Prog_CV_ImageBasics.ipynb)</br>
 
 #### 3) Drawing on Image
 
-[4. Drawing over an Image (Non-interactive)](4_Prog_CV_DrawingOnImage.ipynb)
-[5. Drawing over an Image using Mouse (Interactive)](5_Prog_CV_DrawingImg_using_Mouse.ipynb)
-[6. Drawing over an Image with dynamic size (Interactive)](6_Prog_CV_CreateRect_With_MouseDrag.ipynb)
+<br>[4. Drawing over an Image (Non-interactive)](4_Prog_CV_DrawingOnImage.ipynb)</br>
+<br>[5. Drawing over an Image using Mouse (Interactive)](5_Prog_CV_DrawingImg_using_Mouse.ipynb)</br>
+<br>[6. Drawing over an Image with dynamic size (Interactive)](6_Prog_CV_CreateRect_With_MouseDrag.ipynb)</br>
 
 #### 4) Image Processing
 
-[7. Basics of Watermarks Creation](7_Prog_CV_ImageBlending.ipynb)
+<br>[7. Basics of Watermarks Creation](7_Prog_CV_ImageBlending.ipynb)</br>

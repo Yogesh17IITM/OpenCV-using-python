@@ -30,3 +30,8 @@ Basic knowledge about how to use jupyter python notebook
 #### 4) Image Processing
 
 [7. Basics of Watermarks Creation](7_Prog_CV_ImageBlending.ipynb)</br>
+[8. Image enhancement using threshold concept](8_Prog_CV_ImageThresholding.ipynb)</br>
+
+### References
+
+1. <a href="https://docs.opencv.org/4.x/index.html">Open CV Documentation

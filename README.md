@@ -33,6 +33,7 @@ Basic knowledge about how to use jupyter python notebook
 [8. Image enhancement using threshold concept](8_Prog_CV_ImageThresholding.ipynb)</br>
 [9. Image blurring and smoothing](9_Prog_CV_Blurring_and_Smoothing.ipynb)</br>
 [10. Morphological operations](10_Prog_CV_Morphological_operators.ipynb)</br>
+[11. Edge Detection](11_Prog_CV_Edge_Detection.ipynb)</br>
 
 ### References
 

@@ -32,6 +32,7 @@ Basic knowledge about how to use jupyter python notebook
 [7. Basics of Watermarks Creation](7_Prog_CV_ImageBlending.ipynb)</br>
 [8. Image enhancement using threshold concept](8_Prog_CV_ImageThresholding.ipynb)</br>
 [9. Image blurring and smoothing](9_Prog_CV_Blurring_and_Smoothing.ipynb)</br>
+[10. Morphological operations](10_Prog_CV_Morphological_operators.ipynb)</br>
 
 ### References
 

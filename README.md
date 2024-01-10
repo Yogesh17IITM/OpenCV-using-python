@@ -34,6 +34,13 @@ Basic knowledge about how to use jupyter python notebook
 [9. Image blurring and smoothing](9_Prog_CV_Blurring_and_Smoothing.ipynb)</br>
 [10. Morphological operations](10_Prog_CV_Morphological_operators.ipynb)</br>
 [11. Edge Detection](11_Prog_CV_Edge_Detection.ipynb)</br>
+[12. Histograms](12_Prog_Histograms.ipynb)</br>
+
+#### 5) Video processing
+
+[13. Video Basics using webcam](13_Video_Basics_Webcam.ipynb)
+[14. Video File handling](14_videoHandling.ipynb)
+[15. Interactive Drawing on live webcam video](15_DrawingOnLiveVideo.ipynb)
 
 ### References
 

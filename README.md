@@ -42,6 +42,10 @@ Basic knowledge about how to use jupyter python notebook
 [14. Video File handling](14_videoHandling.ipynb)
 [15. Interactive Drawing on live webcam video](15_DrawingOnLiveVideo.ipynb)
 
+#### 6) Object Detection
+
+[16. Template Matching](16_Template_Matching.ipynb)
+
 ### References
 
 1. <a href="https://docs.opencv.org/4.x/index.html">Open CV Documentation

@@ -50,3 +50,4 @@ Basic knowledge about how to use jupyter python notebook
 ### References
 
 1. <a href="https://docs.opencv.org/4.x/index.html">Open CV Documentation
+2. <a href="https://github.com/anaustinbeing/haar-cascade-files">Haar cascade XML Files (Face recognition)

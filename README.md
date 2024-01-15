@@ -38,14 +38,16 @@ Basic knowledge about how to use jupyter python notebook
 
 #### 5) Video processing
 
-[13. Video Basics using webcam](13_Video_Basics_Webcam.ipynb)
-[14. Video File handling](14_videoHandling.ipynb)
-[15. Interactive Drawing on live webcam video](15_DrawingOnLiveVideo.ipynb)
+[13. Video Basics using webcam](13_Video_Basics_Webcam.ipynb)</br>
+[14. Video File handling](14_videoHandling.ipynb)</br>
+[15. Interactive Drawing on live webcam video](15_DrawingOnLiveVideo.ipynb)</br>
 
 #### 6) Object Detection
 
-[16. Template Matching](16_Template_Matching.ipynb)
-[17. Corner Detection](17_corner_detection.ipynb)
+[16. Template Matching](16_Template_Matching.ipynb)</br>
+[17. Corner Detection](17_corner_detection.ipynb)</br>
+[18. Face Detection](18_FaceDetection.ipynb)</br>
+[19. Face Detection on webcam](19_Face_Detection_on_video.ipynb)</br>
 
 ### References
 

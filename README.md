@@ -45,6 +45,7 @@ Basic knowledge about how to use jupyter python notebook
 #### 6) Object Detection
 
 [16. Template Matching](16_Template_Matching.ipynb)
+[17. Corner Detection](17_corner_detection.ipynb)
 
 ### References
 

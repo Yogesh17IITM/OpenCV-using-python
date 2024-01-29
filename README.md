@@ -49,6 +49,14 @@ Basic knowledge about how to use jupyter python notebook
 [18. Face Detection](18_FaceDetection.ipynb)</br>
 [19. Face Detection on webcam](19_Face_Detection_on_video.ipynb)</br>
 
+#### 7) Object Tracking
+
+[20. Object Tracking with Lucas Kanade Method](20_Object_Tracking_Optical_Flow_Method.ipynb)
+
+#### Excercise
+
+[1. Blurring number plate](Exercise/Prob_1/Blurring_Number_plate.ipynb)</br>
+
 ### References
 
 1. <a href="https://docs.opencv.org/4.x/index.html">Open CV Documentation
